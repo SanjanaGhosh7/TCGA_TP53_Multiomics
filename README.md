@@ -48,7 +48,7 @@ Breast cancer is a heterogeneous disease with distinct molecular subtypes. Integ
 
 Mutation Data: TCGA-BRCA.somaticmutation_wxs.tsv.gz given in  `Data/` folder.
 
-Expression Data: TCGA-BRCA.star_fpkm.tsv.gz(can download from the link given above).
+Expression Data: TCGA-BRCA.star_fpkm.tsv.gz (can be downloaded from the link given above).
 
 # Tools Used:
 
@@ -112,9 +112,9 @@ Despite similar medians in the visual plots, Welch's t-test revealed a statistic
 
 ## 5. 💊 Relevance to Cancer Subtyping and Precision Medicine
 
-Cancer Subtyping: TP53 mutation and expression levels may inform molecular classification
+Cancer Subtyping: TP53 mutation and expression levels may inform molecular classification.
 
-Precision Medicine: Expression differences related to mutation status can support decisions regarding personalized treatment approaches
+Precision Medicine: Expression differences related to mutation status can support decisions regarding personalized treatment approaches.
 
 
 ---
